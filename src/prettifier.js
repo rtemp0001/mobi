@@ -19,6 +19,5 @@ export const prettifier = (num) => {
     integer = integer.slice(0, integer.length - 12);
     multiplier = 'T';
   }
-  //console.log('ROB' + fraction);
   return integer + (fraction !== '0' ? ('.' + fraction) : '') + multiplier;
 };
