@@ -1,0 +1,1 @@
+{"version":3,"sources":["prettifier.js"],"names":[],"mappings":";;;;;AAAO,IAAM,kCAAa,SAAb,UAAa,CAAC,GAAD,EAAS;AACjC,SAAO,IAAI,QAAJ,EAAP,CADiC;CAAT","file":"prettifier-compiled.js","sourcesContent":["export const prettifier = (num) => {\n  return num.toString();\n};"]}
